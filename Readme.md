@@ -1,7 +1,4 @@
-## Thesis Title
-
-**Single Image Dehazing Using K-Estimation Approach**
-
+## **Single Image Dehazing Using K-Estimation Approach**
 ## Authors
 
 * Saad Bin Sami
